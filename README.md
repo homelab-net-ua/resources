@@ -16,8 +16,8 @@
 ## Unifi
 - [Моніторинг UniFi через Unpoller, Prometheus і Grafana у Docker Compose](https://homelab.net.ua/statti/monitoring-unifi-docker/) — моніторинг unifi docker: розгортання стеку спостережуваності у homelab через Docker Compose. Unpoller збирає метрики, Pr…
 
-## Без категорії
-- [Про проєкт HomeLab.net.ua — хто, навіщо і про що](https://homelab.net.ua/statti/pro-proekt/) — HomeLab.net.ua — це сайт про домашні сервери, мережі та self-hosted рішення. Тут публікуються практичні гайди, які можна…
+## Апаратура
+- [Home lab як enterprise: стек для відмовостійкої домашньої інфраструктури](https://homelab.net.ua/statti/vidmovostijka-domashnia-infrastruktura-stek/) — відмовостійка домашня інфраструктура: огляд стеку, який перетворює home lab у керовану платформу з кластерною віртуаліза…
 
 ## Мережі
 - [Публічні DNS для домашньої мережі: як вибрати і перевірити альтернативний резолвер](https://homelab.net.ua/statti/publichni-dns-dlya-domashnoyi-merezhi/) — Дізнайтеся, коли варто змінити DNS провайдера, як налаштувати публічні DNS на Linux або роутері, перевірити затримку рез…
@@ -34,4 +34,4 @@
 - [ZeroByte у homelab: як підняти self-hosted бекапи на Docker з SMB, локальним репозиторієм і Google Drive через rclone](https://homelab.net.ua/statti/bekapy-na-docker/) — Покроковий технічний how-to для розгортання ZeroByte у homelab: підключення SMB, створення локального репозиторію і вива…
 
 ---
-Автоматично оновлено: 2026-04-10 01:30 UTC
+Автоматично оновлено: 2026-04-10 13:07 UTC
