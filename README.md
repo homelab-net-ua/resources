@@ -17,6 +17,7 @@
 - [Моніторинг UniFi через Unpoller, Prometheus і Grafana у Docker Compose](https://homelab.net.ua/statti/monitoring-unifi-docker/) — моніторинг unifi docker: розгортання стеку спостережуваності у homelab через Docker Compose. Unpoller збирає метрики, Pr…
 
 ## Апаратура
+- [LVM у Linux: як керувати дисковим простором без втрати даних](https://homelab.net.ua/statti/lvm-linux-keruvannya-tomiv-homelab/) — LVM Linux: покроково покажу, як у homelab розширювати логічні томи, переносити дані між дисками, зменшувати ризик просто…
 - [Home lab як enterprise: стек для відмовостійкої домашньої інфраструктури](https://homelab.net.ua/statti/vidmovostijka-domashnia-infrastruktura-stek/) — відмовостійка домашня інфраструктура: огляд стеку, який перетворює home lab у керовану платформу з кластерною віртуаліза…
 
 ## Мережі
@@ -34,4 +35,4 @@
 - [ZeroByte у homelab: як підняти self-hosted бекапи на Docker з SMB, локальним репозиторієм і Google Drive через rclone](https://homelab.net.ua/statti/bekapy-na-docker/) — Покроковий технічний how-to для розгортання ZeroByte у homelab: підключення SMB, створення локального репозиторію і вива…
 
 ---
-Автоматично оновлено: 2026-04-10 13:07 UTC
+Автоматично оновлено: 2026-04-11 23:17 UTC
