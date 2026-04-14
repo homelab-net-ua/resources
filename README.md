@@ -24,6 +24,7 @@
 - [Fail2ban для SSH і веб-сервісів: базове налаштування без зайвої магії](https://homelab.net.ua/statti/fail2ban-ssh-nalashtuvannya-homelab/) — fail2ban ssh: покроково налаштуєте захист SSH і веб-сервісів у homelab, перевірите блокування, виправите помилки і дізна…
 
 ## Мережі
+- [Pi-hole у Docker: як підняти мережевий DNS-блокувальник без зламаного резолвінгу](https://homelab.net.ua/statti/pi-hole-docker-nalashtuvannya-homelab/) — pi-hole docker: покрокове керівництво — налаштуєте мережевий DNS-блокувальник, уникнете конфліктів порту 53, виберете ме…
 - [Публічні DNS для домашньої мережі: як вибрати і перевірити альтернативний резолвер](https://homelab.net.ua/statti/publichni-dns-dlya-domashnoyi-merezhi/) — Дізнайтеся, коли варто змінити DNS провайдера, як налаштувати публічні DNS на Linux або роутері, перевірити затримку рез…
 
 ## Операційні системи
@@ -38,4 +39,4 @@
 - [ZeroByte у homelab: як підняти self-hosted бекапи на Docker з SMB, локальним репозиторієм і Google Drive через rclone](https://homelab.net.ua/statti/bekapy-na-docker/) — Покроковий технічний how-to для розгортання ZeroByte у homelab: підключення SMB, створення локального репозиторію і вива…
 
 ---
-Автоматично оновлено: 2026-04-14 06:38 UTC
+Автоматично оновлено: 2026-04-14 20:15 UTC
