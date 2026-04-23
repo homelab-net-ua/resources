@@ -21,6 +21,7 @@
 - [Home lab як enterprise: стек для відмовостійкої домашньої інфраструктури](https://homelab.net.ua/statti/vidmovostijka-domashnia-infrastruktura-stek/) — відмовостійка домашня інфраструктура: огляд стеку, який перетворює home lab у керовану платформу з кластерною віртуаліза…
 
 ## Безпека
+- [CrowdSec замість Fail2ban: коли краудсорсингова безпека для Linux-сервера справді має сенс](https://homelab.net.ua/statti/crowdsec-zamist-fail2ban-homelab/) — crowdsec замість fail2ban — дізнайтеся, чи варто переходити в homelab: переваги, ризики, базове налаштування і перевірка…
 - [Fail2ban для SSH і веб-сервісів: базове налаштування без зайвої магії](https://homelab.net.ua/statti/fail2ban-ssh-nalashtuvannya-homelab/) — fail2ban ssh: покроково налаштуєте захист SSH і веб-сервісів у homelab, перевірите блокування, виправите помилки і дізна…
 
 ## Мережі
@@ -42,4 +43,4 @@
 - [ZeroByte у homelab: як підняти self-hosted бекапи на Docker з SMB, локальним репозиторієм і Google Drive через rclone](https://homelab.net.ua/statti/bekapy-na-docker/) — Покроковий технічний how-to для розгортання ZeroByte у homelab: підключення SMB, створення локального репозиторію і вива…
 
 ---
-Автоматично оновлено: 2026-04-20 20:38 UTC
+Автоматично оновлено: 2026-04-23 19:10 UTC
