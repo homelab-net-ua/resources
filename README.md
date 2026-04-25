@@ -11,6 +11,7 @@
 - [Too many open files у Linux: як знайти упор у файлові дескриптори і не лікувати симптоми](https://homelab.net.ua/statti/fajlovi-deskryptory-ulimit-systemd/) — Практичний посібник для адміністраторів: діагностика Too many open files, перевірка файлові дескриптори процесу через ls…
 
 ## MikroTik
+- [MikroTik RouterOS 7.21.4](https://homelab.net.ua/statti/routeros-7-21-4-obnovlennya/) — RouterOS 7.21.4: огляд ключових виправлень і змін — стабільність, BGP, Bridge, LTE, PoE та інші фікси; дізнайтеся, як це…
 - [Simple Queues у MikroTik RouterOS 7](https://homelab.net.ua/statti/simple-queues-%d1%83-mikrotik-routeros-7/) — Simple Queues у RouterOS 7 - це найпростіший спосіб обмежити швидкість для окремого клієнта, пристрою або цілої підмереж…
 
 ## Unifi
@@ -43,4 +44,4 @@
 - [ZeroByte у homelab: як підняти self-hosted бекапи на Docker з SMB, локальним репозиторієм і Google Drive через rclone](https://homelab.net.ua/statti/bekapy-na-docker/) — Покроковий технічний how-to для розгортання ZeroByte у homelab: підключення SMB, створення локального репозиторію і вива…
 
 ---
-Автоматично оновлено: 2026-04-23 19:10 UTC
+Автоматично оновлено: 2026-04-25 02:41 UTC
