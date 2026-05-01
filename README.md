@@ -16,6 +16,7 @@
 - [Simple Queues у MikroTik RouterOS 7](https://homelab.net.ua/statti/simple-queues-%d1%83-mikrotik-routeros-7/) — Simple Queues у RouterOS 7 - це найпростіший спосіб обмежити швидкість для окремого клієнта, пристрою або цілої підмереж…
 
 ## Unifi
+- [UniFi: окремі SSID та VLAN для IoT і гостей без доступу до LAN](https://homelab.net.ua/statti/unifi-vlan-ssid-iot/) — UniFi VLAN: докладний гайд для homelab — створите окремі SSID і VLAN для IoT та гостей, ізольовані від основної LAN, з п…
 - [Моніторинг UniFi через Unpoller, Prometheus і Grafana у Docker Compose](https://homelab.net.ua/statti/monitoring-unifi-docker/) — моніторинг unifi docker: розгортання стеку спостережуваності у homelab через Docker Compose. Unpoller збирає метрики, Pr…
 
 ## Апаратура
@@ -51,4 +52,4 @@
 - [ZeroByte у homelab: як підняти self-hosted бекапи на Docker з SMB, локальним репозиторієм і Google Drive через rclone](https://homelab.net.ua/statti/bekapy-na-docker/) — Покроковий технічний how-to для розгортання ZeroByte у homelab: підключення SMB, створення локального репозиторію і вива…
 
 ---
-Автоматично оновлено: 2026-05-01 00:35 UTC
+Автоматично оновлено: 2026-05-01 20:13 UTC
