@@ -62,4 +62,4 @@
 - [ZeroByte у homelab: як підняти self-hosted бекапи на Docker з SMB, локальним репозиторієм і Google Drive через rclone](https://homelab.net.ua/statti/bekapy-na-docker/) — Покроковий технічний how-to для розгортання ZeroByte у homelab: підключення SMB, створення локального репозиторію і вива…
 
 ---
-Автоматично оновлено: 2026-06-30 23:26 UTC
+Автоматично оновлено: 2026-06-30 23:27 UTC
