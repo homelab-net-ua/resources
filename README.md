@@ -54,6 +54,7 @@
 - [Публічні DNS для домашньої мережі: як вибрати і перевірити альтернативний резолвер](https://homelab.net.ua/statti/publichni-dns-dlya-domashnoyi-merezhi/) — Дізнайтеся, коли варто змінити DNS провайдера, як налаштувати публічні DNS на Linux або роутері, перевірити затримку рез…
 
 ## Операційні системи
+- [Cloudflare Tunnel на Debian і Ubuntu без відкриття портів](https://homelab.net.ua/statti/cloudflare-tunnel-debian-ubuntu-bez-vidkryttya-portiv/) — Cloudflare Tunnel на Debian і Ubuntu дає публічний доступ до локального вебсервісу без port forwarding на роутері. Хост …
 - [Як вибрати ОС для домашнього сервера під NAS, Docker і віртуалізацію](https://homelab.net.ua/statti/os-dlya-servera/) — Практичний гід для homelab: як вибрати ОС для сервера під NAS, Docker, віртуалізацію чи домашню лабораторію з порадами щ…
 
 ## Програмне забезпечення
@@ -73,4 +74,4 @@
 - [ZeroByte у homelab: як підняти self-hosted бекапи на Docker з SMB, локальним репозиторієм і Google Drive через rclone](https://homelab.net.ua/statti/bekapy-na-docker/) — Покроковий технічний how-to для розгортання ZeroByte у homelab: підключення SMB, створення локального репозиторію і вива…
 
 ---
-Автоматично оновлено: 2026-09-03 11:26 UTC
+Автоматично оновлено: 2026-09-04 08:59 UTC
