@@ -29,6 +29,7 @@
 - [Моніторинг UniFi через Unpoller, Prometheus і Grafana у Docker Compose](https://homelab.net.ua/statti/monitoring-unifi-docker/) — моніторинг unifi docker: розгортання стеку спостережуваності у homelab через Docker Compose. Unpoller збирає метрики, Pr…
 
 ## Ігри
+- [Sunshine і Moonlight вдома: запуск і лаг без магії](https://homelab.net.ua/statti/sunshine-moonlight-domashnii-stryming-ihor/) — Sunshine - open-source хост для GameStream-сумісного стримінгу, а Moonlight - клієнт для прийому відео, звуку й введення…
 - [Proton у Steam на Linux: сумісність, версії і проблеми](https://homelab.net.ua/statti/proton-steam-linux-sumisnist-versii-problemy/) — Proton - шар сумісності в Steam, який запускає Windows-ігри на Linux через Wine, DXVK і пов'язаний стек. Proton у Steam …
 
 ## Апаратура
@@ -74,4 +75,4 @@
 - [ZeroByte у homelab: як підняти self-hosted бекапи на Docker з SMB, локальним репозиторієм і Google Drive через rclone](https://homelab.net.ua/statti/bekapy-na-docker/) — Покроковий технічний how-to для розгортання ZeroByte у homelab: підключення SMB, створення локального репозиторію і вива…
 
 ---
-Автоматично оновлено: 2026-09-04 08:59 UTC
+Автоматично оновлено: 2026-09-05 07:01 UTC
