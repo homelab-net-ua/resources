@@ -87,5 +87,8 @@
 - [Що вибрати для оркестрації контейнерів у homelab: Kubernetes, Docker Swarm, Nomad, ECS, Rancher чи DC/OS](https://homelab.net.ua/statti/orkestratsii-konteyneriv-dlya-homelab/) — Порівняйте Kubernetes, Docker Swarm, Nomad, ECS, Rancher і DC/OS та оберіть платформу оркестрації контейнерів для homela…
 - [ZeroByte у homelab: як підняти self-hosted бекапи на Docker з SMB, локальним репозиторієм і Google Drive через rclone](https://homelab.net.ua/statti/bekapy-na-docker/) — Покроковий технічний how-to для розгортання ZeroByte у homelab: підключення SMB, створення локального репозиторію і вива…
 
+## Програмування
+- [Python-скрипт перевірки TLS-сертифікатів з Telegram або email](https://homelab.net.ua/statti/python-perevirka-tls-sertyfikativ-telegram-email/) — Перевірка TLS-сертифікатів Python - це вузький скрипт для контролю строку дії сертифікатів на списку хостів. Раз на день…
+
 ---
-Автоматично оновлено: 2026-09-22 08:11 UTC
+Автоматично оновлено: 2026-09-23 07:12 UTC
